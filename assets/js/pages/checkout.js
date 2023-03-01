@@ -1,0 +1,1 @@
+$(document).ready((function(){let e=$(document).find(".js-plan-select");e.length&&e.select2({placeholder:"Plan Duration",minimumResultsForSearch:-1})}));
