@@ -1008,7 +1008,7 @@ a {
 }
 
 .home--integrations__bg {
-    background-image: linear-gradient(84deg, #1b45b4, #1c2792);
+    background-image: linear-gradient(84deg, rgb(240, 87, 32), rgb(244, 85, 27));
     -webkit-clip-path: polygon(0 220px, 100% 0, 100% calc(100% - 220px), 0 100%);
     clip-path: polygon(0 220px, 100% 0, 100% calc(100% - 220px), 0 100%);
     height: 100%;
@@ -1765,8 +1765,9 @@ a {
     z-index: 1
 }
 
+
 .home-v2 .home-v2-integ-section .home-v2-integ-bg {
-    background-image: linear-gradient(84deg, rgb(218, 67, 13), rgb(218, 67, 13));
+    background-image: linear-gradient(84deg, rgb(240, 87, 32), rgb(244, 85, 27));
     -webkit-clip-path: polygon(0 205px, 100% 0, 100% calc(100% - 205px), 0 100%);
     clip-path: polygon(0 205px, 100% 0, 100% calc(100% - 205px), 0 100%);
     height: 100%;

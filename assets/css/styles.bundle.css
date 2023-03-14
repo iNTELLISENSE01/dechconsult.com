@@ -19785,9 +19785,11 @@ fieldset:disabled .btn {
     top: 0
 }
 
+/* navbar color */
+
 @media(max-width:575.98px) {
     .navbar--full-screen {
-        background: linear-gradient(52deg, #0097fe, #14358a) !important
+        background: linear-gradient(52deg, #f04c1a, #c23910) !important
     }
 }
 
@@ -19800,7 +19802,7 @@ fieldset:disabled .btn {
 
 @media(min-width:1500px) {
     .navbar.navbar-relative {
-        background: linear-gradient(84deg, #1b45b4, #1c2792) !important
+        background: linear-gradient(52deg, #f04c1a, #c23910) !important
     }
 }
 
@@ -20281,7 +20283,7 @@ fieldset:disabled .btn {
 }
 
 .footer--v1:before {
-    background: linear-gradient(84deg, #1b45b4, #1c2792);
+    background: linear-gradient(84deg, rgb(244, 85, 27), rgb(240, 87, 32));
     bottom: 0;
     -webkit-clip-path: polygon(0 220px, 100% 0, 100% 100%, 0 100%);
     clip-path: polygon(0 220px, 100% 0, 100% 100%, 0 100%);
