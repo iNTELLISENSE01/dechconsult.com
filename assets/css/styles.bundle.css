@@ -18354,15 +18354,15 @@ fieldset:disabled .btn {
 }
 
 .icon-large__box--g-backgroud {
-    background: linear-gradient(52deg, #ed732d, #ed732d)
+    background: #ff6449
 }
 
 .icon-large__box--g-blue {
-    background: linear-gradient(52deg, #ed732d, #ed732d)
+    background:#ff6449
 }
 
 .icon-large__box--g-purple {
-    background: linear-gradient(52deg, #ed732d, #ed732d)
+    background: #ff6449
 }
 
 .icon-medium {
@@ -18411,7 +18411,7 @@ fieldset:disabled .btn {
 }
 
 .icon-medium__circle--g-blue {
-    background: linear-gradient(52deg, #0097fe, #14358a)
+    background: linear-gradient(84deg, #ff6449, #ff6449)
 }
 
 .icon-medium__circle--g-purple {
@@ -18455,7 +18455,7 @@ fieldset:disabled .btn {
 }
 
 .icon-medium__box--g-blue {
-    background: linear-gradient(52deg, #0097fe, #14358a)
+    background: linear-gradient(84deg, #ff6449, #ff6449)
 }
 
 .icon-medium__box--g-purple {
@@ -18508,7 +18508,7 @@ fieldset:disabled .btn {
 }
 
 .icon-small__circle--g-blue {
-    background: linear-gradient(52deg, #0097fe, #14358a)
+    background: linear-gradient(84deg, #ff6449, #ff6449)
 }
 
 .icon-small__circle--g-purple {
@@ -19852,7 +19852,7 @@ fieldset:disabled .btn {
 
 @media(max-width:991.98px) {
     .navbar__links {
-        background: linear-gradient(52deg, #0097fe, #14358a);
+        background: linear-gradient(84deg, #ff6449, #ff6449);
         display: none;
         flex-direction: column;
         gap: 0;
@@ -20283,7 +20283,7 @@ fieldset:disabled .btn {
 }
 
 .footer--v1:before {
-    background: linear-gradient(84deg, rgb(244, 85, 27), rgb(240, 87, 32));
+    background: #ff6449;
     bottom: 0;
     -webkit-clip-path: polygon(0 220px, 100% 0, 100% 100%, 0 100%);
     clip-path: polygon(0 220px, 100% 0, 100% 100%, 0 100%);

@@ -1241,7 +1241,7 @@ a {
 }
 
 .home__content-why__details__detail h4 {
-    color: #006fba;
+    color: #ff6449;
     margin-top: 24px;
     max-width: 200px;
     text-transform: capitalize
@@ -1571,7 +1571,7 @@ a {
 }
 
 .home-v2 .home-v2-why-section .container .home-v2-why-list-wrap .home-v2-why-list-data .home-v2-why-list-text__title {
-    color: #006fba;
+    color: #ff6449;
     max-width: 159px
 }
 
@@ -1634,7 +1634,7 @@ a {
 
 .home-v2 .home-v2-feature-section .container .home-v2-feature-content-wrap-desktop .home-v2-accordion-wrap .accordion .accordion-button {
     box-shadow: unset;
-    color: #006fba
+    color: #ff6449
 }
 
 .home-v2 .home-v2-feature-section .container .home-v2-feature-content-wrap-desktop .home-v2-accordion-wrap .accordion .accordion-button:focus {
