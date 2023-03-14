@@ -88,6 +88,8 @@
     --bs-highlight-bg: #fff3cd
 }
 
+
+
 *,
 :after,
 :before {
@@ -1299,7 +1301,7 @@ a {
 }
 
 .home-page-v2__heading {
-    color: #14358a;
+    color: #ff6449;
     max-width: 650px
 }
 
@@ -1767,7 +1769,7 @@ a {
 
 
 .home-v2 .home-v2-integ-section .home-v2-integ-bg {
-    background-image: linear-gradient(84deg, rgb(240, 87, 32), rgb(244, 85, 27));
+    background-image: linear-gradient(84deg, rgb(240, 87, 32), rgb(247, 73, 9));
     -webkit-clip-path: polygon(0 205px, 100% 0, 100% calc(100% - 205px), 0 100%);
     clip-path: polygon(0 205px, 100% 0, 100% calc(100% - 205px), 0 100%);
     height: 100%;

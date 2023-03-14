@@ -895,11 +895,11 @@ a {
 }
 
 .pricing-v1 .testimonials .container .carousel-testimonials .carousel .carousel-item .card-testi .card-body p {
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
-    display: -webkit-box;
-    overflow: hidden;
-    text-overflow: ellipsis
+    /* -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3; */
+    /* display: -webkit-box; */
+    /* overflow: hidden;
+    text-overflow: ellipsis */
 }
 
 .pricing-v1 .testimonials .container .carousel-testimonials .carousel .carousel-item .card-testi .card-body .author {

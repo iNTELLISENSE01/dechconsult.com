@@ -1410,9 +1410,9 @@ a {
     color: #68718b;
     display: -webkit-box;
     margin: 10px auto auto;
-    max-width: 287px;
-    overflow: hidden;
-    text-overflow: ellipsis
+    /* max-width: 287px;
+    overflow: hidden; */
+    /* text-overflow: ellipsis */
 }
 
 .home__content-why__illustration {

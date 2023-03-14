@@ -17830,7 +17830,7 @@ fieldset:disabled .btn {
 .cta-title--v1,
 .cta-title--v2,
 .cta-title--v3 {
-    color: #14358a
+    color: #ff6449;
 }
 
 .cta-title--subs {
@@ -18045,13 +18045,13 @@ fieldset:disabled .btn {
 }
 
 .btn--primary {
-    background-image: linear-gradient(113deg, #6a36ff, #ac5fe6);
+    background: linear-gradient(113deg, #ed732d, #f0481a);
     color: #fff;
     transition: .2s
 }
 
 .btn--primary:hover {
-    background-color: #ac5fe6;
+    background: orangered;
     background-image: none;
     color: #fff
 }
@@ -18063,7 +18063,7 @@ fieldset:disabled .btn {
 .btn--primary:first-child:hover,
 .btn--primary:first-child:not(.btn-check)+.btn:hover,
 .btn--primary:not(.btn-check)+.btn:hover {
-    background-color: #ac5fe6;
+    background-color: #f0481a;
     background-image: none;
     color: #fff
 }
@@ -18173,7 +18173,7 @@ fieldset:disabled .btn {
 }
 
 .btn--secondary-white:hover {
-    background-color: #ac5fe6;
+    background-color: #f0481a;
     background-image: none;
     border: 1px solid transparent;
     color: #fff
@@ -18282,19 +18282,19 @@ fieldset:disabled .btn {
 }
 
 .icon-large__circle--blue {
-    background: #0097fe
+    background: #f0481a
 }
 
 .icon-large__circle--l-blue {
-    background: #66c1ff
+    background: #f0481a
 }
 
 .icon-large__circle--el-d-blue {
-    background: #edf1fc
+    background: #f0481a
 }
 
 .icon-large__circle--l-d-blue {
-    background: #c4d2f6
+    background: #f0481a
 }
 
 .icon-large__circle--white {
@@ -18310,17 +18310,17 @@ fieldset:disabled .btn {
 }
 
 .icon-large__circle--g-backgroud {
-    background: linear-gradient(84deg, #1b45b4, #1c2792)
+    background: linear-gradient(113deg, #ed732d, #f0481a);
 }
 
 .icon-large__circle--g-blue {
-    background: linear-gradient(52deg, #0097fe, #14358a)
+    background: linear-gradient(113deg, #ed732d, #f0481a);
 }
 
 .icon-large__circle--g-purple {
-    background: linear-gradient(113deg, #6a36ff, #ac5fe6)
+    background: linear-gradient(113deg, #ed732d, #f0481a);
 }
-
+    
 .icon-large__box {
     border-radius: 10px
 }
@@ -18354,15 +18354,15 @@ fieldset:disabled .btn {
 }
 
 .icon-large__box--g-backgroud {
-    background: linear-gradient(84deg, #1b45b4, #1c2792)
+    background: linear-gradient(52deg, #ed732d, #ed732d)
 }
 
 .icon-large__box--g-blue {
-    background: linear-gradient(52deg, #0097fe, #14358a)
+    background: linear-gradient(52deg, #ed732d, #ed732d)
 }
 
 .icon-large__box--g-purple {
-    background: linear-gradient(113deg, #6a36ff, #ac5fe6)
+    background: linear-gradient(52deg, #ed732d, #ed732d)
 }
 
 .icon-medium {
@@ -18548,15 +18548,15 @@ fieldset:disabled .btn {
 }
 
 .icon-small__box--g-backgroud {
-    background: linear-gradient(84deg, #1b45b4, #1c2792)
+    background: linear-gradient(84deg, #ff6449, #ff6449)
 }
 
 .icon-small__box--g-blue {
-    background: linear-gradient(52deg, #0097fe, #14358a)
+    background: linear-gradient(52deg, #ff6449, #ff6449)
 }
 
 .icon-small__box--g-purple {
-    background: linear-gradient(113deg, #6a36ff, #ac5fe6)
+    background: linear-gradient(113deg, #ff6449, #ff6449)
 }
 
 .card {
